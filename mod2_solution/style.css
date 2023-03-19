@@ -119,6 +119,10 @@ p{
 		float: left;
 		margin-top: 1%;
 	}
+
+	#sushi{
+		width: 15%;
+	}
 }
 
 @media(max-width: 767px){
