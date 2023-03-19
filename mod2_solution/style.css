@@ -20,19 +20,19 @@ body{
 .chick{
 	background-color: #999999;
 	margin-bottom: 10px;
-	border: 2px solid black;
+	border: 1px solid black;
 }
 
 .bee{
 	background-color: #999999;
 	margin-bottom: 10px;
-	border: 2px solid black;
+	border: 1px solid black;
 }
 
 .sus{
 	background-color: #999999;
 	margin-bottom: 10px;
-	border: 2px solid black;
+	border: 1px solid black;
 }
 
 #chicken{
@@ -41,7 +41,7 @@ body{
 	float: right;
 	text-align: center;
 	border-style: solid;
-	border-width: 0 0 2px 2px;
+	border-width: 0 0 1px 1px;
 	border-color: black;
 	font-size: 125%;
 }
@@ -52,7 +52,7 @@ body{
 	float: right;
 	text-align: center;
 	border-style: solid;
-	border-width: 0 0 2px 2px;
+	border-width: 0 0 1px 1px;
 	border-color: black;
 	font-size: 125%;
 }
@@ -63,7 +63,7 @@ body{
 	float: right;
 	text-align: center;
 	border-style: solid;
-	border-width: 0 0 2px 2px;
+	border-width: 0 0 1px 1px;
 	border-color: black;
 	font-size: 125%;
 }
